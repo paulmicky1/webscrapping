@@ -1,0 +1,22 @@
+[project]
+name = "course-msc-web-scraping-data-processing"
+version = "0.1.0"
+description = "Web Scraping and Data Processing for MSc Course"
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = [
+    "bs4>=0.0.2",
+    "folium>=0.20.0",
+    "geopy>=2.4.1",
+    "html5lib>=1.1",
+    "ipykernel>=7.0.1",
+    "jupyterhub>=5.4.1",
+    "jupyterlab>=4.4.9",
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "pip>=25.2",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+]
